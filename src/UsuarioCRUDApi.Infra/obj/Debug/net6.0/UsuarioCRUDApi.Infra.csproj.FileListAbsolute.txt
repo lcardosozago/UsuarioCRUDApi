@@ -1,0 +1,17 @@
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Infra.deps.json
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Infra.dll
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Infra.pdb
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Business.dll
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Business.pdb
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.csproj.CopyComplete
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.dll
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\refint\UsuarioCRUDApi.Infra.dll
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.pdb
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\ref\UsuarioCRUDApi.Infra.dll
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\bin\Debug\net6.0\UsuarioCRUDApi.Infra.runtimeconfig.json
+C:\Users\Lucas\Documents\Projetos\UsuarioCRUDApi\src\UsuarioCRUDApi.Infra\obj\Debug\net6.0\UsuarioCRUDApi.Infra.genruntimeconfig.cache
