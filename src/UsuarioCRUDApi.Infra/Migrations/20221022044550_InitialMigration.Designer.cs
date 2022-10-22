@@ -12,8 +12,8 @@ using UsuarioCRUDApi.Infra.Data.Context;
 namespace UsuarioCRUDApi.Infra.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20221020112202_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20221022044550_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

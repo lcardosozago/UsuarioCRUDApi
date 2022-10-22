@@ -7,7 +7,7 @@ using UsuarioCRUDApi.Business.Core.Models;
 
 namespace UsuarioCRUDApi.Business.Core.Data
 {
-    public interface IRepository<TEntity>
+    public interface IRepository<TEntity> : IDisposable where TEntity : class
     {
         Task<List<TEntity>> ObterTodos();
         Task<TEntity> ObterPorId(int id);
