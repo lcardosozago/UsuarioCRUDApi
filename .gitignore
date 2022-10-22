@@ -1,0 +1,16 @@
+.vs
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Application/obj/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Application/.gitkeep
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Application/bin/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Application/.gitkeep
+
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Business/obj/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Business/.gitkeep
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Business/bin/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Business/.gitkeep
+
+
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Infra/obj/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Infra/.gitkeep
+src/UsuarioCRUDApi/src/UsuarioCRUDApi.Infra/bin/*
+!src/UsuarioCRUDApi/src/UsuarioCRUDApi.Infra/.gitkeep
