@@ -2,6 +2,9 @@
 
 Esse projeto foi desenvolvido para teste técnico na empresa Confitec
 
+Pré-requisitos:
+- É necessário que tenha o **Microsoft SQL Server Express LocalDB** instalado em seu ambiente de desenvolvimento.
+
 Passos para executar o projeto:
 
 1. Clone o projeto
